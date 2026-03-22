@@ -41,6 +41,10 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Agile Methodology</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Manual Testing</h4>
             </article>
             <article className="experience__details">
@@ -50,6 +54,15 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Basics of Selenium in Java</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Automation Fundmentals</h4>
+            </article>
+
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>TestNG</h4>
             </article>
           </div>
         </div>

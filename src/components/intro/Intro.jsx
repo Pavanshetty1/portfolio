@@ -30,14 +30,12 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            6 months experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+            Developer skilled in building responsive, user-friendly web
+            interfaces using modern technologies. Experienced in React.js,
+            JavaScript, and UI frameworks, with strong focus on performance,
+            usability, and clean code. Always eager to learn new tools and
+            technologies to enhance development efficiency and deliver
+            high-quality web applications.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
